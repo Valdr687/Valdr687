@@ -1,7 +1,11 @@
-  Hi, I’m @Valdr687, a young dev.
+## Hi there 👋
+
+I'm yound programer, I once had some Python and Html classes. And now I learning by myself both web developpement and Python.
+
+## About my repositories
+
+- The Vervada : a website realated to my texture pack for Minecraft Java
+- Divers : code I did for school
 
 
-<!---
-Valdr687/Valdr687 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
