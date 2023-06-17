@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Has had some IT classes, found it fun, now doing small projects.
+Has had some IT classes, found it fun.
 
 ## Projects
 
