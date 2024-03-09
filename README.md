@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Has had some IT classes, found it fun.  
+Has had some CS classes, found it fun.  
 I speak french, english, y un poco español.
 
 ## Projects
